@@ -15,9 +15,9 @@
             <BuildableReference
                BuildableIdentifier = "primary"
                BlueprintIdentifier = "13B07F861A680F5B00A75B9A"
-               BuildableName = "DorianFruitsAndVeg.app"
-               BlueprintName = "DorianFruitsAndVeg"
-               ReferencedContainer = "container:DorianFruitsAndVeg.xcodeproj">
+               BuildableName = "AmbInstructor.app"
+               BlueprintName = "AmbInstructor"
+               ReferencedContainer = "container:AmbInstructor.xcodeproj">
             </BuildableReference>
          </BuildActionEntry>
       </BuildActionEntries>
@@ -33,9 +33,9 @@
             <BuildableReference
                BuildableIdentifier = "primary"
                BlueprintIdentifier = "00E356ED1AD99517003FC87E"
-               BuildableName = "DorianFruitsAndVegTests.xctest"
-               BlueprintName = "DorianFruitsAndVegTests"
-               ReferencedContainer = "container:DorianFruitsAndVeg.xcodeproj">
+               BuildableName = "AmbInstructorTests.xctest"
+               BlueprintName = "AmbInstructorTests"
+               ReferencedContainer = "container:AmbInstructor.xcodeproj">
             </BuildableReference>
          </TestableReference>
       </Testables>
@@ -55,9 +55,9 @@
          <BuildableReference
             BuildableIdentifier = "primary"
             BlueprintIdentifier = "13B07F861A680F5B00A75B9A"
-            BuildableName = "DorianFruitsAndVeg.app"
-            BlueprintName = "DorianFruitsAndVeg"
-            ReferencedContainer = "container:DorianFruitsAndVeg.xcodeproj">
+            BuildableName = "AmbInstructor.app"
+            BlueprintName = "AmbInstructor"
+            ReferencedContainer = "container:AmbInstructor.xcodeproj">
          </BuildableReference>
       </BuildableProductRunnable>
    </LaunchAction>
@@ -72,9 +72,9 @@
          <BuildableReference
             BuildableIdentifier = "primary"
             BlueprintIdentifier = "13B07F861A680F5B00A75B9A"
-            BuildableName = "DorianFruitsAndVeg.app"
-            BlueprintName = "DorianFruitsAndVeg"
-            ReferencedContainer = "container:DorianFruitsAndVeg.xcodeproj">
+            BuildableName = "AmbInstructor.app"
+            BlueprintName = "AmbInstructor"
+            ReferencedContainer = "container:AmbInstructor.xcodeproj">
          </BuildableReference>
       </BuildableProductRunnable>
    </ProfileAction>
